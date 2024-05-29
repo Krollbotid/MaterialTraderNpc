@@ -1,0 +1,11 @@
+author = Krollbotid, Gregg/VVV101
+
+version = 1.0.8.1
+displayName = Material Trader NPC
+homepage = https://forums.terraria.org/index.php?threads/material-trader-npc.61878/
+hideCode = false
+weakReferences = ThoriumMod, CalamityMod, ElementsAwoken
+hideResources = false
+includeSource = true
+buildIgnore = *.db, *.user, obj\*, bin\*, .vs\*, .git*, referenceImages*.png, .gitattributes, *.csproj
+includePDB = true

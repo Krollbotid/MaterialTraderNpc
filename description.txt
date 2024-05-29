@@ -1,0 +1,19 @@
+Material Trader Npc adds 11 NPCs, who trades materials from vanilla Terraria.
+NPCs are: The "Jungle Trader", the "Desert Trader", the "Cavern Trader", the "Ocean Trader", the "Winter Trader", the "Sky Trader", the "Hell Trader", the "Dungeon Trader", the "Evil Trader", the "Holy Trader" and the "Cool Guy".
+NPCs spawn conditions:
+Jungle Trader - have Jungle Spore/Stinger in inventory or HardMode.
+Desert Trader - have Antlion Mandible in inventory or HardMode.
+Cavern Trader - have Blinkroot/Cobweb in inventory or HardMode.
+Ocean Trader - have Coral/Starfish in inventory or HardMode.
+Winter Trader - have Snow/Ice Block in inventory or HardMode.
+Sky Trader - have Feather in inventory or HardMode.
+Hell Trader - have (Eater of World/Brain of Cthulhu defeated and Hellstone/Ash Block in inventory) or Hardmode.
+Dungeon Trader - have Skeletron defeated.
+Evil Trader - have (EoC defeated and have Vertebrae/Rotten Chunk in inventory) or HardMode.
+Holy Trader - have (Evil Trader appeared in world and HardMode and Pixie Dust in inventory) or all Mech Bosses defeated.
+Cool Guy - have one modded NPC appeared in world.
+v1.0.8.1
+Fixed bug with Winter Trader.
+v1.0.8
+Added imkSushisMod support. Changed Cool Guy Martian block sell conditions from "Golem Defeated" to "Martians Defeated". Fixed bug with Thorium that Smooth coal have no value. Now Cool Guy sells all the Thorium's butterflies! Added all (I hope) items from Elements Awoken.
+Open forum page to see full changelog.
